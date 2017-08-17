@@ -37,6 +37,6 @@ public class TaxCalculator {
 	}
 	
 	public void test() {
-		
+		System.out.println("Test");
 	}
 }
