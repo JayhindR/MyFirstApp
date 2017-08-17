@@ -36,7 +36,4 @@ public class TaxCalculator {
 		TaxCalculator.calculateTax(CountryEnums.CHINA, 1250000.0);
 	}
 	
-	public void test() {
-		System.out.println("Test");
-	}
 }
